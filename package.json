@@ -1,0 +1,15 @@
+{
+  "name": "05-npm-core-path",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arooj",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "devDependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
